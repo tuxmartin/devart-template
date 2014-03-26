@@ -4,17 +4,17 @@
             "Google Docs"
         ],
         "platforms": [
-            "Linux"
-            "Raspberry Pi"
+            "Linux",
+            "Raspberry Pi",
             "Arduino"
         ],
         "toolkits": [
             "jQuery"
         ],
         "languages": [
-            "Java"
-            "C++"
-            "Html"
+            "Java",
+            "C++",
+            "Html",
             "Css"
         ]
     },
