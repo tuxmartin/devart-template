@@ -3,7 +3,11 @@ Hologram
 
 ## Authors
 - GXG Jičín:
+
+Main author:
 - Ing. arch. Radek Jiránek https://github.com/archikultura
+ 
+Other authors:
 - Bc. Martin Vancl https://github.com/tuxmartin
 - Mgr. Jiří Komárek
 
