@@ -5,9 +5,17 @@
         ],
         "platforms": [
             "Linux"
+            "Raspberry Pi"
+            "Arduino"
         ],
         "toolkits": [
-            "insert toolkits"
+            "jQuery"
+        ],
+        "languages": [
+            "Java"
+            "C++"
+            "Html"
+            "Css"
         ]
     },
     "themes": [
