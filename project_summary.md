@@ -22,7 +22,7 @@ function test() {
 }
 ```
 ## Links to External Libraries
-[APIs - google-api-java-client](https://code.google.com/p/google-api-java-client/wiki/APIsm "APIs - google-api-java-client")
+[APIs - google-api-java-client](https://code.google.com/p/google-api-java-client/wiki/APIs "APIs - google-api-java-client")
 
 ## Images & Videos
 NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
