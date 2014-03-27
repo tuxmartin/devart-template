@@ -1,21 +1,23 @@
 {
     "technologies": {
         "apis": [
-            "Google Docs"
+            "Google Drive"
         ],
         "platforms": [
             "Linux",
             "Raspberry Pi",
-            "Arduino"
+            "Arduino",
+			"Android"
         ],
         "toolkits": [
-            "jQuery"
+			"Kinect"
         ],
         "languages": [
             "Java",
             "C++",
             "Html",
-            "Css"
+            "Css",
+			"shell"
         ]
     },
     "themes": [
