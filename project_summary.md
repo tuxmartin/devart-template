@@ -1,9 +1,15 @@
 # Project Title
-Insert the name of your project
+Hologram
 
 ## Authors
-- Insert main author name, surname, github account
-- Insert other author(s) name, surname, github account (one per list element)
+- GXG Jičín:
+
+Main author:
+- Ing. arch. Radek Jiránek https://github.com/archikultura
+ 
+Other authors:
+- Bc. Martin Vancl https://github.com/tuxmartin
+- Mgr. Jiří Komárek
 
 ## Description
 Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 

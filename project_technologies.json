@@ -1,13 +1,21 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "Google Docs"
         ],
         "platforms": [
-            "insert platforms"
+            "Linux",
+            "Raspberry Pi",
+            "Arduino"
         ],
         "toolkits": [
-            "insert toolkits"
+            "jQuery"
+        ],
+        "languages": [
+            "Java",
+            "C++",
+            "Html",
+            "Css"
         ]
     },
     "themes": [
