@@ -22,7 +22,7 @@ Doesnt need to be proved In pressent stage of the project, that hypothesis broug
 The visitors could be taken onto interaction with hologram in form of mistaken attempt.For  this application could be possible to use two similar models in pressent time. The first one would be using  code of a standard software.For example:Google documents (painting),when the visitor of the gakleria would use a touchpad  and paint a random bitmap picture,which would with help of the code transform onto the displaying glass board“Hologram”. Subsequently the painting would be transformed into rotational illusion of 3D object.The secondary option is to generate a code with noncontact machine,for example Kinect.Visitor of the galeria could remove matterial using movements of hands from full body illusion,mould it,similar to for example in ceramic production on pottery ring.
 
 ## Example Code
-NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
+Arduino blinking LED:
 ```
 byte ledPin = 7;
 int interval = 500; // miliSeconds
