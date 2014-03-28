@@ -5,5 +5,6 @@ Control of desks with LED diodes will be directed through Arduino and Raspberry 
 User will input data using Google Drawings. Thanks to automatic saving of the draft during user’s inactivity, RPi will periodically download the newest version of the draft via Google Disk API and calculate the set up for desks and LED from the newest version.
 
 ![Example Image](../project_images/ArduinoUno_R3_Front.jpg?raw=true "Example Image")
+
 ![Example Image](../project_images/Raspberry_Pi.jpg?raw=true "Example Image")
 
