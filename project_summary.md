@@ -13,7 +13,6 @@ Support:
 - Mgr. Jiří Komárek
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology.
 
 Object of this project is vizualization of defined object and not just virtually but even in real world.The creators are suspicious that, thanks to LED technologie installed inside of a board glass without visible contacts will be illusion of virtual object almost perfect. The propossed way of this image “hologram” will be very close to naturale sence how we know it in the world surrouding us.
 The impression of the hologram is created with help of lightning discharge on the display-glass desk.Illusion is created by one desk rottating around one axis.The assumption is, that this scheme will still be free in another two axisa so will be possible turn with the object and look at it from all the sides.
